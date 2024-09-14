@@ -1,2 +1,3 @@
 # tictactoe
-SOme basic concepts of DOM manipulation and event handling
+
+Some basic concepts of DOM manipulation and event handling made the tictactoe game
